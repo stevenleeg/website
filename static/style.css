@@ -60,19 +60,19 @@ h1 {
 }
 
 .links a:nth-child(1) {
-    background: #80BCA3;
+    background: #45AAB8;
 }
 
 .links a:nth-child(2) {
-    background: #E6AC27;
+    background: #80BCA3;
 }
 
 .links a:nth-child(3) {
-    background: #BF4D28;
+    background: #E6AC27;
 }
 
 .links a:nth-child(4) {
-    background: #655643;
+    background: #BF4D28;
 }
 
 a.post {
