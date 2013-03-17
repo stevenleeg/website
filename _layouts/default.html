@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Steve Gattuso</title>
+        <link rel="stylesheet" type="text/css" href="/static/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Rufina:400,700' rel='stylesheet' type='text/css'>
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>
+        <div class="container">
+            <a href="/" class="name">Steve Gattuso</a>
+            {% if page.title != "index" %}
+                <div class="links small">
+                    <a href="/">Home</a><a href="https://github.com/stevenleeg">Github</a><a href="https://news.ycombinator.com/user?id=stevenleeg">Hacker News</a><a href="mailto:steve@stevegattuso.me">Contact</a>
+                </div>
+            {% else %}
+                <div class="links">
+                    <a href="https://github.com/stevenleeg">Github</a><a href="http://twitter.com/stevegattuso">Twitter</a><a href="https://news.ycombinator.com/user?id=stevenleeg">Hacker News</a><a href="mailto:steve@stevegattuso.me">Contact</a>
+                </div>
+            {% endif %}
+            {% if page.title == "index" %}
+            <div class="bio">
+                I'm a student at the <a href="http://rochester.edu">University of Rochester</a> and <a href="http://apply.hackny.org/">HackNY '13 fellow</a>. I like to work on things that make life easier on my spare time.
+            </div>
+            {% endif %}
+
+            {{content}}
+        </div>
+    </body>
+</html>

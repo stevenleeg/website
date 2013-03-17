@@ -1,0 +1,8 @@
+---
+layout: default
+title: index
+---
+<h1>Recent posts</h1>
+{% for post in site.posts %}
+<a href="{{post.url}}" class="post">{{post.title}} <span class="description">{{post.description}}</span></a>
+{% endfor %}

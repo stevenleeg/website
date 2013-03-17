@@ -1,0 +1,121 @@
+body {
+    background: #F1ECDF;
+    color: #1F1F1F;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+a {
+    color: #BF4D28;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1F1F1F;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 300;
+    margin: 15px 0px 5px 0px;
+}
+
+.container {
+    width: 500px;
+    margin: 10px auto 0px auto;
+}
+
+.name {
+    font-size: 32px;
+    display: block;
+    color: #1F1F1F;
+    margin-bottom: 5px;
+}
+
+.bio {
+    text-align: center;
+    background: #F6F7BD;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 16px;
+    width: 124px;
+    margin: 0px auto 0px auto;
+    color: #EEE;
+    padding: 10px 0px 10px 0px;
+}
+
+.links.small a {
+    padding: 3px 0px 3px 0px;
+}
+
+.links a:nth-child(1) {
+    background: #80BCA3;
+}
+
+.links a:nth-child(2) {
+    background: #E6AC27;
+}
+
+.links a:nth-child(3) {
+    background: #BF4D28;
+}
+
+.links a:nth-child(4) {
+    background: #655643;
+}
+
+a.post {
+    display: block;
+    margin-left: 10px;
+    color: #1F1F1F;
+    font-size: 18px;
+}
+
+a.post:hover {
+    color: #655643;
+}
+
+.post .description:before {
+    content: "// ";
+}
+.post .description {
+    font-size: 12px;
+}
+
+.post_title {
+    font-family: Rufina, Georgia, serif;
+    font-size: 28px;
+    font-weight: 400;
+    margin: 15px 0px 0px 0px;
+}
+
+.post_description {
+    font-family: Rufina, Georgia, serif;
+    color: #655643;
+    margin-left: 5px;
+    font-style: italic;
+}
+
+.post_content {
+    font-family: Rufina, Georgia, serif;
+    line-height: 1.5em;
+}
+
+.post_content p:first-child {
+    margin: .5em 0px .75em 0px;
+}
+
+.post_content p {
+    margin: 0px 0px .75em 0px;
+}
