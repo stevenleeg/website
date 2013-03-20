@@ -93,18 +93,17 @@ span.post_date {
 }
 
 .post_title {
-    font-family: Rufina, Georgia, serif;
-    font-size: 28px;
+    font-family: "Libre Baskerville", Georgia, serif;
+    font-size: 24px;
     font-weight: 400;
     padding: 10px 10px 0px 10px;
 }
 
 .post_description {
-    font-family: Rufina, Georgia, serif;
+    font-family: "Libre Baskerville", Georgia, serif;
     color: #655643;
-    margin-left: 5px;
     font-style: italic;
-    padding: 0px 10px 0px 10px;
+    padding: 3px 15px 0px 15px;
 }
 
 .post_meta {
@@ -121,7 +120,7 @@ span.post_date {
 }
 
 .post_content {
-    font-family: Rufina, Georgia, serif;
+    font-family: "Libre Baskerville", Georgia, serif;
     line-height: 2em;
     padding: 0px 10px 0px 10px;
 }
