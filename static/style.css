@@ -157,3 +157,8 @@ span.post_date {
     padding: 0px;
     text-indent: 0px;
 }
+
+.footer {
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+}
