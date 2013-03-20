@@ -55,10 +55,6 @@ h1 {
     padding: 10px 0px 10px 0px;
 }
 
-.links.small a {
-    padding: 3px 0px 3px 0px;
-}
-
 .links a:nth-child(1) {
     background: #45AAB8;
 }
@@ -76,28 +72,31 @@ h1 {
 }
 
 a.post {
-    display: block;
     margin-left: 10px;
-    color: #1F1F1F;
     font-size: 18px;
 }
 
-a.post:hover {
-    color: #655643;
+span.post_date {
+    font-size: 10px;
 }
 
-.post .description:before {
-    content: "// ";
-}
 .post .description {
     font-size: 12px;
+}
+
+.post_container {
+    background: #EEE;
+    border: 1px solid #444;
+    border-top: 0px;
+    width: 495px;
+    margin: 0px auto 0px auto;
 }
 
 .post_title {
     font-family: Rufina, Georgia, serif;
     font-size: 28px;
     font-weight: 400;
-    margin: 15px 0px 0px 0px;
+    padding: 10px 10px 0px 10px;
 }
 
 .post_description {
@@ -105,17 +104,56 @@ a.post:hover {
     color: #655643;
     margin-left: 5px;
     font-style: italic;
+    padding: 0px 10px 0px 10px;
+}
+
+.post_meta {
+    font-size: 12px;
+    padding: 10px 10px 10px 10px;
+    text-align: right;
+}
+
+
+.post_minidescription {
+    font-size: 12px;
+    font-style: italic;
+    margin: 3px 0px 7px 10px;
 }
 
 .post_content {
     font-family: Rufina, Georgia, serif;
-    line-height: 1.5em;
+    line-height: 2em;
+    padding: 0px 10px 0px 10px;
 }
 
-.post_content p:first-child {
+.post_content p:nth-child(1) {
     margin: .5em 0px .75em 0px;
 }
 
 .post_content p {
     margin: 0px 0px .75em 0px;
+    text-indent: 20px;
+}
+
+.footnotes hr {
+    display: none;
+}
+
+.footnotes ol {
+    display: block;
+    padding: 0px;
+    margin: 0px auto 0px auto;
+    border-top: 1px solid #CCC;
+    list-style-position: inside;
+}
+
+.footnotes ol li {
+    margin-top: 5px;
+}
+
+.footnotes li p {
+    display: inline;
+    margin: 0px !important;
+    padding: 0px;
+    text-indent: 0px;
 }
