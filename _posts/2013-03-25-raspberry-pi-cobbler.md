@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi Cobbler
-description: New hardware and some direction for this blog!
+description: Fresh off of the soldering bench.
 catagory: tech
 ---
 

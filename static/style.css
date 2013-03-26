@@ -15,6 +15,10 @@ a:hover {
     color: #1F1F1F;
 }
 
+a.feed {
+    font-size: 12px;
+}
+
 h1 {
     font-size: 24px;
     font-weight: 300;

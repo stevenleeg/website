@@ -2,7 +2,7 @@
 layout: default
 title: index
 ---
-<h1>Recent posts</h1>
+<h1>Recent posts <a href="/feed.xml" class="feed">[rss]</a></h1>
 {% for post in site.posts %}
 <a href="{{post.url}}" class="post">{{post.title}}</a> &mdash;  <span class="post_date">{{post.date | date: "%B %d, %Y" }}</span>
 <div class="post_minidescription">{{post.description}}</div>
