@@ -176,5 +176,10 @@ span.post_date {
 .footer img {
     vertical-align: middle;
     display: inline-block;
-    margin-right: 3px;
+    margin-right: 3;px;
+}
+
+.project {
+    font-size: 18px;
+    margin: 5px 0px 5px 10px;
 }
