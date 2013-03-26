@@ -172,3 +172,9 @@ span.post_date {
     text-align: center;
     margin: 10px 0px 10px 0px;
 }
+
+.footer img {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 3px;
+}
