@@ -138,8 +138,18 @@ span.post_date {
 .post_content img {
     display: block;
     width: 450px;
-    margin: 5px auto 5px auto;
+    margin: 0px auto 5px auto;
     border: 3px solid #FFF;
+}
+
+.post_content .caption {
+    width: 450px;
+    margin: 0px auto 5px auto;
+    padding: 0px 10px 0px 10px;
+    font-style: italic;
+    font-size: 12px;
+    line-height: 1.5em;
+    text-align: center;
 }
 
 .post_content p:nth-child(1) {
