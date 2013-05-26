@@ -30,6 +30,12 @@ h1 {
     margin: 10px auto 0px auto;
 }
 
+.profile {
+    display: block;
+    width: 500px;
+    margin: 15px 0px 5px 0px;
+}
+
 .name {
     font-size: 32px;
     display: block;
