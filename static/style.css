@@ -215,6 +215,10 @@ span.post_date {
         line-height: 1.5em;
     }
 
+    .post_content p {
+        line-height: 1.8em;
+    }
+
     h1 {
         font-size: 36px;
     }
