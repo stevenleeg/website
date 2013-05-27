@@ -8,7 +8,7 @@ point: cities are an inspiring place for me. They make me happy
 
 After reading Matt Bunday's article, [Be Happy for No Reason](http://zencephalon.com/be-happy-for-no-reason.html), I was inspired to think about the things in my life that make me happy. One that's becoming increasingly prominent is moving to New York for the summer (six days from the time of writing this).
 
-Anyone who knows me well enough will most likely be rolling their eyes at this point, as they'll know that I have always had an (almost weird) obsession with the city. For context, I come from a very small rural town called Hamilton in upstate New York. For 18 years of my life I was in a place 45 minutes away from the nearest major grocery store. Naturally, the city was such a massive change from this environment that whenever I visited, I was baffled by the civilization that I felt I was missing out on.
+Anyone who knows me well enough will most likely be rolling their eyes at this point, as they'll know that I have always had an (almost weird) obsession with the city. For context, I come from a small rural town in upstate New York named Hamilton. For 18 years of my life I was in a place 45 minutes away from the nearest major grocery store. Naturally, the city was such a massive change from this environment that whenever I visited, I was baffled by the civilization that I felt I was missing out on.
 
 ![A picture of the city](/photos/IMG_0599.jpg)
 <div class="caption">
