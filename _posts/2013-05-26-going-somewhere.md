@@ -10,7 +10,7 @@ After reading Matt Bunday's article, [Be Happy for No Reason](http://zencephalon
 
 Anyone who knows me well enough will most likely be rolling their eyes at this point, as they'll know that I have always had an (almost weird) obsession with the city. For context, I come from a small rural town in upstate New York named Hamilton. For 18 years of my life I was in a place 45 minutes away from the nearest major grocery store. Naturally, the city was such a massive change from this environment that whenever I visited, I was baffled by the civilization that I felt I was missing out on.
 
-![A picture of the city](/photos/IMG_0599.jpg)
+![A picture of the city](http://stevegattuso.me/photos/IMG_0599.jpg)
 <div class="caption">
 The highest structure in my area is a barn silo. Tough competition, right?
 </div>
@@ -25,7 +25,7 @@ It may seem like I regret growing up in my small town, but I definitely don't. W
 
 While I think the city is a better place for me personally, I can definitely see the appeal of living in a place like Hamilton. Neither is better than the other, just very different, and I'm glad I now have the option of picking between the two.
 
-![A view from home](/photos/IMG_2367.JPG)
+![A view from home](http://stevegattuso.me/photos/IMG_2367.JPG)
 <div class="caption">
 Hamilton has its perks as well.
 </div>
