@@ -157,6 +157,12 @@ span.post_date {
     text-align: center;
 }
 
+.post_content hr {
+    border: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .post_content p:nth-child(1) {
     margin: .5em 0px .75em 0px;
 }
