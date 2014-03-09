@@ -25,7 +25,7 @@ I believe that this is a problem that has caused us to care less about real life
     Charstarlene's "I forgot my phone" does a great job of illustrating this problem.
 </div>
 
-<hr />
+<hr class="spacer" />
 
 I think the solution to this problem comes in two parts. The first comes from ourselves. If what I'm saying resonates with you, I'd encourage you to become more conscious about your internet and phone usage. Next time you pull your phone out, think about what caused you to take it out of your pocket. Is this reason *really* important enough to justify interrupting whatever is going on around you?
 
