@@ -1,12 +1,20 @@
 ---
 layout: default
 ---
+{% include bio.html %}
 <div class="post_container">
     <div class="post_title">{{page.title}}</div>
     <div class="post_description">{{page.description}}</div>
     <div class="post_content">
         {{content}}
     </div>
-    <div class="post_footer">If you liked this post, feel free to subscribe <a href="http://stevegattuso.me/feed.xml">via RSS</a> or <a href="http://twitter.com/stevenleeg">follow me on twitter</a>.</div>
+    <div class="post_footer">
+        {% if page.hn %}
+        Discussion for this article can be found on <a href="{{ page.hn }}">Hacker News</a>.<br />
+        {% endif %}
+        If you liked this post, feel free to subscribe 
+        <a href="http://stevegattuso.me/feed.xml">via RSS</a> or 
+        <a href="http://twitter.com/stevenleeg">follow me on twitter</a>.
+    </div>
     <div class="post_meta">Published on {{page.date | date: "%B %d, %Y" }}</div>
 </div>

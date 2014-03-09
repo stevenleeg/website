@@ -48,6 +48,7 @@ h1 {
     background: #F6F7BD;
     padding: 10px;
     margin-top: 15px;
+    line-height: 1.3em;
 }
 
 .links {
@@ -97,9 +98,8 @@ span.post_date {
 .post_container {
     background: #EEE;
     border: 1px solid #444;
-    border-top: 0px;
     width: 494px;
-    margin: 0px auto 0px auto;
+    margin: 15px auto 0px auto;
 }
 
 .post_title {
@@ -119,6 +119,8 @@ span.post_date {
 .post_footer {
     padding: 0px 10px 0px 10px;
     font-style: italic;
+    text-align: center;
+    line-height: 1.4em;
 }
 
 .post_meta {

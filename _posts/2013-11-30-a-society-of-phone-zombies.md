@@ -2,6 +2,7 @@
 layout: post
 description: Put your damn phone away.
 title: A society of phone zombies
+hn: https://news.ycombinator.com/item?id=6823459
 ---
 
 I tell a lot of people that I'm a computer hacker. With this sort of identity, I tend to surprise a lot of people when I say that I actually hate technology. Yes, when I say this I am exaggerating a bit, but there is truth to what I'm saying. What I really mean is that I've come to greatly dislike the way technology has been invading our lives. 
