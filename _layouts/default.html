@@ -9,10 +9,37 @@
         <link rel="stylesheet" type="text/css" href="/static/style.css">
         <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
         <meta name="viewport" content="width=515px">
-        <meta name="description" content="Steve Gattuso - A hacker/developer and student at the University of Rochester">
         <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-        <meta name="google-site-verification" content="Ha2CGmoUtvcKv_T40Ny72sJXbp4HVV2ND-x1xwBLHBI" />
         <link rel="shortcut icon" href="/static/favicon.png">
+        <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+
+        <meta name="google-site-verification" content="Ha2CGmoUtvcKv_T40Ny72sJXbp4HVV2ND-x1xwBLHBI" />
+        {% if page.description %}
+            <meta name="description" content="{{ page.description }}">
+            <meta name="twitter:description" content="{{ page.description }}" />
+            <meta property="og:description" content="{{ page.description }}" />
+        {% else %}
+            <meta name="description" content="Steve Gattuso - A hacker/developer and student at the University of Rochester">
+            <meta name="twitter:description" content="Steve Gattuso - A hacker/developer and student at the University of Rochester" />
+            <meta property="og:description" content="Steve Gattuso - A hacker/developer and student at the University of Rochester" />
+        {% endif %}
+
+        <meta property="og:site_name" content="Steve Gattuso" />
+        <meta property="og:type" content="blog"/>
+        <meta property="og:image" content="{{ site.social-image }}" />
+        <meta name="twitter:image" content="{{ site.social-image }}" />
+        {% if page.title %}
+            <meta property="og:title" content="{{ page.title }} - Steve Gattuso" />
+            <meta name="twitter:title" content="{{ page.title }}" />
+        {% else %}
+            <meta property="og:title" content="Steve Gattuso" />
+            <meta name="twitter:title" content="Steve Gattuso" />
+        {% endif %}
+        <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@stevenleeg" />
+        <meta name="twitter:creator" content="@stevenleeg" />
     </head>
     <body>
         <div class="container">
