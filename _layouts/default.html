@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Steve Gattuso</title>
+        {% if page.title %}
+            <title>{{ page.title }} - Steve Gattuso</title>
+        {% else %}
+            <title>Steve Gattuso</title>
+        {% endif %}
         <link rel="stylesheet" type="text/css" href="/static/style.css">
         <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
         <meta name="viewport" content="width=515px">
@@ -15,7 +19,7 @@
             <a href="/" class="name">Steve Gattuso</a>
             {% if page.title != "index" %}
                 <div class="links">
-                    <a href="/">Home</a><a href="https://github.com/stevenleeg">Github</a><a href="https://news.ycombinator.com/user?id=stevenleeg">Hacker News</a><a href="mailto:steve@stevegattuso.me">Contact</a>
+                    <a href="/">Home</a><a href="https://github.com/stevenleeg">Github</a><a href="http://twitter.com/stevenleeg">Twitter</a><a href="mailto:steve@stevegattuso.me">Contact</a>
                 </div>
             {% else %}
                 <div class="links">
