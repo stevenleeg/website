@@ -45,7 +45,7 @@
     <body>
         <div class="container">
             <a href="/" class="name">Steve Gattuso</a>
-            {% if page.title != "index" %}
+            {% if page.title != "Home" %}
                 <div class="links">
                     <a href="/">Home</a><a href="https://github.com/stevenleeg">Github</a><a href="http://twitter.com/stevenleeg">Twitter</a><a href="mailto:steve@stevegattuso.me">Contact</a>
                 </div>
@@ -54,7 +54,7 @@
                     <a href="https://github.com/stevenleeg">Github</a><a href="http://twitter.com/stevenleeg">Twitter</a><a href="https://news.ycombinator.com/user?id=stevenleeg">Hacker News</a><a href="mailto:steve@stevegattuso.me">Contact</a>
                 </div>
             {% endif %}
-            {% if page.title == "index" %}
+            {% if page.title == "Home" %}
                 {% include bio.html %}
                 <img src="/photos/IMG_0455.JPG" width="500px" class="profile" />
             {% endif %}
