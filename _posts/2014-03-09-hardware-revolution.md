@@ -2,6 +2,7 @@
 layout: post
 description: Hardware could be the new software.
 title: The Hardware Revolution
+hn: https://news.ycombinator.com/item?id=7372634
 ---
 It's a pretty great time to be a software engineer. Sure you get great pay and perks, but my favorite part of this vocation is how stupidly easy and cheap it is to try out new ideas. Developers have no shortage of libraries, frameworks, and tools that make it incredibly easy to quickly throw things together into a functional prototype.
 
