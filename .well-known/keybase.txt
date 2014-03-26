@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/stevenleeg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stevegattuso.me
+  * I am stevenleeg (https://keybase.io/stevenleeg) on keybase.
+  * I have a public key with fingerprint 25B8 A660 6A0F CA00 FBB4  303E 84CD 274D F265 D469
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "25b8a6606a0fca00fbb4303e84cd274df265d469",
+            "host": "keybase.io",
+            "key_id": "84cd274df265d469",
+            "uid": "b19b2bd27c6207edff436b1e6dbad500",
+            "username": "stevenleeg"
+        },
+        "service": {
+            "hostname": "stevegattuso.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395866877,
+    "expire_in": 157680000,
+    "prev": "9a6acff50ea19887ac722f2b8113dbd2d7a5aeba2e2e5f2aa5ef6974d200573a",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHrAnicbZFrSBRfGMZ3u9p6QUH60pUp0nSR2ZmdM7NLLRtlkJrgeolAWs7MnFlH
+3ZltZ3b/yWaWfyGLFCohC7LICorC9FMUKxJK0HqpFBIrCczALlBuiiKmZ6SgD50v
+h3me3/u85523N3m1yWJuGMg4PI1GZHOsZzZkKqb3LEYIXhVrCGeEqEIrlyQrPhQM
+BGVFJ5wExfAcBIAEkJQESJISz9tpkkacXRAp1i5KFGBEO3AQVqJC1YwKHMNDDeXI
+Ktbwh1cWsfoPPrRi8DYHT/HYEwBFskiUJDsNeBsCIg9FhiQNUENBBfoRpjUdhZFS
+jZCPqLUSWA/LAtYjK83/ZnxQ10OamoMVKxEIqroqqNXYrND1gNOo1WsCBvwf4r2/
+Y7y8rIh4eFwQRkFNVhXCacOkoMtGro12MBwAHMtaCXQiIAeRVzYIhgUciY/RBoVx
+pAMCKEgSQyJoc3AcCwWWoiSK52w2WsSTiixkIOIhhSjESBSEDJKAA/8biiQZloa4
+v4aOKyrhZPAzoc8YSfYpUA8FEVH7rKd8jclsMa1bu8pYn8myIfXPUrWj6xdTs/Z6
+WofL+1F+9OPCS1fjnDYGyt2eLt+Zd1xLS2zfkaoEf2GDJ7EINJ661bT9UVvUkdJh
+Nk9bumkYaZY/vE6cg3mFbNp39+OSn9feyGTrQz124ZNbCOVuKXYnlCUfSk9Cp9vf
+9mbeiO0e6Yo3u9Qn46avU56BA4Evl6yDmUklV11oZuj/jbMvlnqmK5/e1ybaK+Wx
+maXBpnMdrnubB3ektacsDBcUDY1afm2rG67fH3/fmfG8s6kv+2beaK4//e6PTVa1
+LI9q8Z3v+1aaFS2IPuh7ld0/Wdq79fbnfOdkm+ninXoms63u8vWJY938ePwKODk1
+uzN+cH6X/+z8MimyHVI=
+=MNrc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenleeg
+
+==================================================================
+
