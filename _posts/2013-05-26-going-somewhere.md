@@ -10,7 +10,7 @@ After reading Matt Bunday's article, [Be Happy for No Reason](http://zencephalon
 
 Anyone who knows me well enough will most likely be rolling their eyes at this point, as they'll know that I have always had an (almost weird) obsession with the city. For context, I come from a small rural town in upstate New York named Hamilton. For 18 years of my life I was in a place 45 minutes away from the nearest major grocery store. Naturally, the city was such a massive change from this environment that whenever I visited, I was baffled by the civilization that I felt I was missing out on.
 
-![A picture of the city](http://stevegattuso.me/photos/IMG_0599.jpg)
+![A picture of the city]({{site.url}}/photos/IMG_0599.jpg)
 <div class="caption">The highest structure in my area is a barn silo. Tough competition, right?</div>
 
 Maybe it's the feeling of being in a place the world cares about. Or a transit system that can zip me around to anywhere in the surrounding area within one nap's time. Or hearing a different language being spoken after each step on the street. Or a combination of all of these things that contrast so greatly from the place I originally lived. It's just a nice feeling being surrounded by such a vast amount of civilization.
@@ -23,7 +23,7 @@ It may seem like I regret growing up in my small town, but I definitely don't. W
 
 While I think the city is a better place for me personally, I can definitely see the appeal of living in a place like Hamilton. Neither is better than the other, just very different, and I'm glad I now have the option of picking between the two.
 
-![A view from home](http://stevegattuso.me/photos/IMG_2367.JPG)
+![A view from home]({{site.url}}/photos/IMG_2367.JPG)
 <div class="caption">Hamilton has its perks as well.</div>
 
 So now that I've gotten that off my chest, I'd like to propose an experiment. This summer I am incredibly grateful for being a part of the [hackNY Fellows Program](http://apply.hackny.org), which involves living and working in the city itself for 10 weeks. After those 10 weeks I'll be returning home, where I'd like to write a follow up post. I want to see if this feeling for the city lasts. Is it really as great of a place as I've let mind imagine it to be? In ~11 weeks time I'll hopefully have the answer.

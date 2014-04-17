@@ -8,7 +8,7 @@
         {% endif %}
         <link rel="stylesheet" type="text/css" href="/static/style.css">
         <link rel="stylesheet" type="text/css" href="/static/syntax.css">
-        {% if !site.ipv6 %}
+        {% if site.ipv6 == false %}
             <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
         {% endif %}
         <meta name="viewport" content="width=515px">
@@ -64,7 +64,7 @@
             {{content}}
         </div>
         <div class="footer"><img src="/static/copyleft.png" height="14px" />2013 Steve Gattuso</div>
-        {% if !site.ipv6 %}
+        {% if site.ipv6 == false %}
         <script type="text/javascript">
           var _gaq = _gaq || [];
           _gaq.push(['_setAccount', 'UA-26000488-1']);

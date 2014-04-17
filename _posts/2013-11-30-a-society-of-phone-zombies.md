@@ -19,11 +19,17 @@ Think about it. There's a good chance that you have an internet-capable device s
 
 I believe that this is a problem that has caused us to care less about real life and more about our precious phones feeding us with useless information and quick entertainment. Why endure a full 30 seconds of boredom if we could pull out our phones and laugh at a quick gif? We've been trained to become a society of internet-addicts, constantly craving the entertainment provided by our phones rather than enjoying the people and experiences of our lives in the real world.
 
+{% if site.ipv6 == false %}
 <iframe style="display: block; margin-bottom: 15px;" width="100%" height="315px" src="//www.youtube.com/embed/OINa46HeWg8" frameborder="0"> </iframe>
 
 <div class="caption">
     Charstarlene's "I forgot my phone" does a great job of illustrating this problem.
 </div>
+{% else %}
+<div class="caption">
+    Charstarlene's <a href="https://www.youtube.com/watch?v=OINa46HeWg8">I forgot my phone</a> does a great job of illustrating this problem.
+</div>
+{% endif %}
 
 <hr class="spacer" />
 
