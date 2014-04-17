@@ -51,6 +51,11 @@ h1 {
     line-height: 1.3em;
 }
 
+.bio.hyperboria {
+    background: #1F1F1F;
+    color: #F1ECDF;
+}
+
 .links {
     text-align: center;
 }
