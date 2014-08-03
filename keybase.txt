@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/stevenleeg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stevegattuso.me
+  * I am stevenleeg (https://keybase.io/stevenleeg) on keybase.
+  * I have a public key with fingerprint 9016 4BFA 469B 88C7 C101  31A8 63AA 05F3 A2A7 D081
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.11"
+        },
+        "key": {
+            "fingerprint": "90164bfa469b88c7c10131a863aa05f3a2a7d081",
+            "host": "keybase.io",
+            "key_id": "63AA05F3A2A7D081",
+            "uid": "b19b2bd27c6207edff436b1e6dbad500",
+            "username": "stevenleeg"
+        },
+        "merkle_root": {
+            "ctime": 1407044558,
+            "hash": "02397910674bd0087035bcc7bf13612d1f155889bd965cb9b7d51c555cc62284c90a4e480a695c123db236878d186ec2a1c053dea60aef998da8d83feaa41099",
+            "seqno": 32503
+        },
+        "service": {
+            "hostname": "stevegattuso.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1407044699,
+    "expire_in": 157680000,
+    "prev": "4a7049db987edbe4099575c5ce087c900719f41cdd0eff76a964ffc7b1806e69",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkn1MFEcYxu9owYqgBmgoCSqurUJDcGa/FzHptZWa8GHV1AoI192d2WP1uD3v
+A7giVupHpFYlEQkpGGhVqlFbDqqiRkhKSrBVKYFrTQqCSqogVKPGUgXtLqWJzl87
+M7993+d53qkIf8UUZD7y2vrUJSPtleZfhiXT2v7LOSWEpCEfkVxCyHYVOzzGl0Ms
+wEQysQn7JNGNk1QtzqEhnLTRHTfNJBKF2OVWNYdOgSQ6CUKiNNHgjb8V1WHDLqdL
+NYoRAoAsLSkizQoSz8ucDAGkoMizlCgCRqFEUuQQ4KFeM19ze15qS0zVtKpIP2Up
+iwUwqZSFtHDv/8d7py4kKEikhEhOZknAYaQoNMVKELNIEhEDgAG6sWvak9uDC7HD
+jrHNUFyAXZvs2OrStCnfskc1IEgDDtA0w/C6JtGdb5gkKYETIGA5WkIA8BygGEmW
+OUmBFAtJBBWo47wgIYFlZEmQOMRAmWEYWVdF8rQsAJHGNA9EVmBkSFJIIimW53gE
+eRbLpAhlwFAIiywQsSIIPBJ5xFMKFkUaAkHQTbjxZodGJFMkA6hSY+sqVGVsyDZy
+e9GeTfR4vG4tST9JJJwuzaPJml2/zPd4nMmGbY/PqcPNRBGWrNN1rJLqQPrgXhwt
+1NGXI2EFIZHAxU7Vha2qQTAcywN9GX1wod6DFnVOQJLA66OQMK1rZzhGZmSsh6an
+ADgoKDSUEQJYUThWFFhaUfQgIQ9YzL5gFOrpe0SbYUq1OUSP14WJ0vKg2FdN5iBT
+SHCQ8XhNoTPn/v+if9sx11QrNZRXACtQZzxpWtm1wtI7cXPnrr0r/2C+DilLGG14
+3N/4NKG6oS68d2L/oU5rPfdrdVvLgrqrubYRd/78iT3ajQFfh/+Bq/YCDFpovr61
+w304L310sO+7e5f7LIUTwXvTqletfHu1VD8w8cOC7Bs9hPevu8/XIktoeO5yX/zp
+mPjdv0/mf99asC/5rSdrCWrU/M72xm3BwZ/WRU6GVlcFKsebO5dWfTB57nzdvJLy
+Wbvv1H7hZz4fXZe6Je5p1uM3C8udrshrOGZ1ZFqE9eLy4ZDZTed7ZwcO3v8z+EHj
+nDXPjxGLluc+HIueaPjx4+419jce9aTMufPevpMZYUfK27ydaDwl+qdZO2RL4NSK
+ef+cGbp4NKt01eK62lZHHoGGa0ZtW8ZiA0dvBoq+Qh8eCu77O7k570p78cHbpc+U
+pkTydE5syNVB/qP++p6socyqS4uLr2+f5d/YMsCUnQ2kRpX48oW4W08ffXtifWpN
+RkT7NrEt/vV0IePuZ9tuxWcsjU745vCiinUnHUn3ZjQdKO/vWziSXjmWYt5QlMPs
+OD6ekOm/dKartX1rzWBg87Ky2+BA9YYWLzuUbYqKsi9p2lo1+2ijDz4ME3ZeuR/5
+SZjjLOryl0Wk1uREtjPZbd3dP++6Or/eHvVuJnViaI8zxn78WcexZftnnrxt/jJd
+SDt3vOzUhYL7Lf7wa/8C
+=LZSC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenleeg
+
+==================================================================
