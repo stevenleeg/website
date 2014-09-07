@@ -32,8 +32,10 @@ h1 {
 
 .profile {
     display: block;
-    width: 500px;
-    margin: 15px 0px 5px 0px;
+    width: 100px;
+    float: left;
+    border: 5px solid #FFF;
+    margin-right: 15px;
 }
 
 .name {
@@ -49,6 +51,16 @@ h1 {
     padding: 10px;
     margin-top: 15px;
     line-height: 1.3em;
+}
+
+.bio p {
+    margin-top: 20px;
+}
+
+.bio:after {
+    display: block;
+    content: "";
+    clear: both;
 }
 
 .bio.hyperboria {
