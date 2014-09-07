@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 <h1>What I'm writing about</h1>
+<div class="thing">
+    <a href="http://aday.stevegattuso.me">Aday</a> &mdash; One picture per day for as long as my attention span lasts.
+</div>
 {% for post in site.posts %}
 <div class="thing">
     <a href="{{post.url}}">{{post.title}}</a> &mdash; {{post.description}}
